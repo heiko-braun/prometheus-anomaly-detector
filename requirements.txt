@@ -1,11 +1,17 @@
-pandas
-schedule
+# pandas
+# schedule
+# prometheus_client
+# prometheus_api_client
+# tornado
+# pystan==2.19.1.1
+# prophet
+# mlflow
+# numpy
+# scikit-learn
+# tensorflow>=2.0,<2.5
+
+prophet==1.1.6
 prometheus_client
 prometheus_api_client
-tornado
-pystan==2.19.1.1
-prophet
-mlflow
-numpy
-scikit-learn
-tensorflow>=2.0,<2.5
+plotly
+python-dotenv
